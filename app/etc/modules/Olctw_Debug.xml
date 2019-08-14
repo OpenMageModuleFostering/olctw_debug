@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Olctw_Debug>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Olctw_Debug>
+    </modules>
+</config>

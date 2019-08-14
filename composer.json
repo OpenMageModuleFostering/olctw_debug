@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Olctw_Debug",
+    "type": "magento-module",
+    "license": "Open-Software-License-(OSL-3.0)",
+    "homepage": "",
+    "description": "A debug tool bar for developers of magento commerce community 1.7 or higher.",
+    "authors": [
+    {
+        "name": "Just This Computer Studio ( http:\/\/olc.tw )",
+        "email": "service@olc.tw"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
